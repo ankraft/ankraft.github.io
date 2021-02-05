@@ -30,7 +30,7 @@ twitter_username: ""
 github_username:  ankraft
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
