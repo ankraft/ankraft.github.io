@@ -28,7 +28,7 @@ twitter_username: ""
 github_username:  ankraft
 
 # Build settings
-theme: Minimal
+theme: minimal
 plugins:
   - jekyll-feed
 
