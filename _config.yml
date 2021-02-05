@@ -28,7 +28,8 @@ twitter_username: ""
 github_username:  ankraft
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
+show_downloads: false
 plugins:
   - jekyll-feed
 
